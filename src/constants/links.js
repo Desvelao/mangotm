@@ -1,0 +1,11 @@
+
+export const DOTABUFF = 'https://www.dotabuff.com/'
+export const DOTABUFF_SEARCH = 'https://www.dotabuff.com/search'
+export const DESVELAO_PROFILE = 'https://desvelao.github.io/profile/'
+export const DESVELAO_TWITTER = '#'
+export const DESVELAO_GITHUB = 'https://github.com/Desvelao'
+export const DESVELAO_STEAM = 'http://steamcommunity.com/profiles/76561198073106653'
+export const DESVELAO_REDDIT = 'https://www.reddit.com/user/Desvelao/'
+export const DESVELAO_PATREON = 'https://www.patreon.com/desvelao'
+export const FED_DISCORD = 'https://discord.gg/K5krgBg'
+export const DESVELAO_BE_PATRON = 'https://www.patreon.com/bePatron?u=8800190'
